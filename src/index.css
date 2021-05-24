@@ -96,4 +96,7 @@ body {
     .ant-space-item{
       margin:5px;
     }
+    .hero {
+      width:95%;
+    }
 }
